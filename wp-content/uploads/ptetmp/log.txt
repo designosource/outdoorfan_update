@@ -1,0 +1,19 @@
+[DEBUG  ][2014-09-01T12:40:35+00:00][ PARAMETERS: Array
+(
+    [action] => pte_ajax
+    [pte-action] => iframe
+    [pte-id] => 1154
+) ]
+[DEBUG  ][2014-09-01T12:40:35+00:00][ PTE-VERSION: 2.4.0
+USER-AGENT:  Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; Touch; .NET4.0E; .NET4.0C; Tablet PC 2.0; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; InfoPath.3)
+WORDPRESS:   3.9.2 ]
+[DEBUG  ][2014-09-01T12:40:35+00:00][ GENERATING WORKING IMAGE:
+  [/customers/f/f/9/outdoorfan.be/httpd.www/wp-content/uploads/ptetmp/1154-600.jpg]
+  [http://outdoorfan.be/wp-content/uploads/ptetmp/1154-600.jpg] ]
+[DEBUG  ][2014-09-01T12:40:40+00:00][ PARAMETERS: Array
+(
+    [action] => pte_ajax
+    [id] => 1154
+    [pte-action] => get-thumbnail-info
+) ]
+[WARNING][2014-09-01T12:40:40+00:00][ Couldn't find or generate metadata for image: 1154-fullsize ]
